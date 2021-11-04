@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*😈 𝔻𝕖𝕒𝕕𝕡𝕠𝕠𝕝 𝕌𝕡𝕕𝕒𝕥𝕖 𝕚𝕤 𝔸𝕧𝕒𝕚𝕝𝕒𝕓𝕝𝕖*\n\n please ask support group before updating. Otherwise chance to get error\n\nChanges:\n```",
+            "NEW_UPDATE": "*😈 𝔸ℝ𝕁𝕌ℕ𝕊𝔼ℝ 𝕌𝕡𝕕𝕒𝕥𝕖 𝕚𝕤 𝔸𝕧𝕒𝕚𝕝𝕒𝕓𝕝𝕖*\n\n please ask support group before updating. Otherwise chance to get error\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```𝕌𝕡𝕕𝕒𝕥𝕚𝕟𝕘..🧚‍♂️```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*𝕌𝕡𝕕𝕒𝕥𝕖𝕕 😈✅*",
             "UPDATED_LOCAL": "*✅ 𝕊𝕦𝕔𝕔𝕖𝕤𝕤𝕗𝕦𝕝𝕪 𝕌𝕡𝕕𝕒𝕥𝕖𝕕!*",
-            "AFTER_UPDATE": "*😈 𝔻𝕖𝕒𝕕𝕡𝕠𝕠𝕝 ℝ𝕖𝕤𝕥𝕒𝕣𝕥𝕚𝕟𝕘*"
+            "AFTER_UPDATE": "*😈 𝔸ℝ𝕁𝕌ℕ𝕊𝔼ℝ ℝ𝕖𝕤𝕥𝕒𝕣𝕥𝕚𝕟𝕘*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
