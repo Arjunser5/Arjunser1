@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "update indo enn ariyaan.",
             "UPDATE": "*ningalude bot up-to-date aan!*",
-            "NEW_UPDATE": "*😈 𝔻𝕖𝕒𝕕𝕡𝕠𝕠𝕝 ℙ𝕦𝕥𝕙𝕚𝕪𝕒 𝕌𝕡𝕕𝕒𝕥𝕖 𝕍𝕒𝕟𝕟𝕚𝕥𝕥𝕦𝕟𝕕* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
+            "NEW_UPDATE": "*😈 𝔸ℝ𝕁𝕌ℕ𝕊𝔼ℝ ℙ𝕦𝕥𝕙𝕚𝕪𝕒 𝕌𝕡𝕕𝕒𝕥𝕖 𝕍𝕒𝕟𝕟𝕚𝕥𝕥𝕦𝕟𝕕* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "botine update cheyaan.",
             "UPDATING": "```𝕌𝕡𝕕𝕒𝕥𝕚𝕟𝕘..🤖```",
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
             "UPDATED": "*𝕌𝕡𝕕𝕒𝕥𝕖𝕕 😈✅*",
             "UPDATED_LOCAL": "*✅ 𝕍𝕚𝕛𝕒𝕪𝕒𝕜𝕒𝕣𝕒𝕞𝕒𝕒𝕪𝕚 𝕌𝕡𝕕𝕒𝕥𝕖 ℂ𝕙𝕖𝕪𝕥𝕙𝕦!*",
-            "AFTER_UPDATE": "*😈 𝔻𝕖𝕒𝕕𝕡𝕠𝕠𝕝 ℝ𝕖𝕤𝕥𝕒𝕣𝕥𝕚𝕟𝕘..*"
+            "AFTER_UPDATE": "*😈 𝔸ℝ𝕁𝕌ℕ𝕊𝔼ℝ ℝ𝕖𝕤𝕥𝕒𝕣𝕥𝕚𝕟𝕘..*"
         },
         "weather": {
             "WEATHER_DESC": "ningal therrunna sthalathe kaalavastha kaanikkum.",
