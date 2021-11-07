@@ -17,11 +17,11 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️ Shahid Shazz✨️━━━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️ 𝐴𝑅𝐽𝑈𝑁𝑆𝐸𝑅✨️━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 𝕊𝕙𝕒𝕙𝕚𝕕 𝕤𝕙𝕒𝕫𝕫 𝐛𝐨𝐭.
-            *𝔻𝕖𝕒𝕕𝕡𝕠𝕠𝕝*
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 𝐴𝑅𝐽𝑈𝑁𝑆𝐸𝑅 𝐛𝐨𝐭.
+            *𝐴𝑅𝐽𝑈𝑍𝑍*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
@@ -78,7 +78,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -wallpaper
 🍙𝙐𝙨𝙚➜ It sends you random wallpaper.
 
-■□■□■□■□■□𝔻𝕖𝕒𝕕𝕡𝕠𝕠𝕝■□■□■□■□■□
+■□■□■□■□■□𝑨𝑹𝑱𝑼𝑵𝑺𝑬𝑹■□■□■□■□■□
 ♟ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♟
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -joke 
@@ -120,7 +120,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -anime <text>
 🍙𝙐𝙨𝙚➜  Gives you info about anime.
-⚠️anime Deadpool
+⚠️anime Arjunser
 ■□■□■□■□■𝔻𝕖𝕒𝕕𝕡𝕠𝕠𝕝□■□■□■□■□■□
 ♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
 
@@ -132,10 +132,10 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
 🍙𝙐𝙨𝙚➜ Converts text into glowing sticker.
-⚠️ex  attp Deadpool
+⚠️ex  attp Arjunser
 ■□■□■□■□■□■□■□■□■□■□
-═════💢𝔻𝕖𝕒𝕕𝕡𝕠𝕠𝕝💢═════
-▣▣▣▣▣▣▣▣▣𝕊𝕙𝕒𝕙𝕚𝕕𝕤𝕙𝕒𝕫𝕫▣▣▣▣▣▣▣▣▣▣▣
+═════💢𝐴𝑅𝐽𝑈𝑁𝑆𝐸𝑅💢═════
+▣▣▣▣▣▣▣▣▣𝐴𝑅𝐽𝑈𝑍𝑍▣▣▣▣▣▣▣▣▣▣▣
 
 `}) 
 
