@@ -16,7 +16,7 @@ if (Config.WORKTYPE == 'private') {
 
         var ttinullimage = await axios.get(`https://api.zeks.xyz/api/gplaybutton?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=$%20=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
 
-        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*😈𝕄𝕒𝕕𝕖 𝕓𝕪 𝕊ℍ𝔸ℤℤ😈*' })
+        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*😈𝑀𝐴𝐷𝐸 𝐵𝑌 𝐴𝑅𝐽𝑈𝑁𝑆𝐸𝑅😈*' })
 
     }));
 }
@@ -29,7 +29,7 @@ Asena.addCommand({pattern: 'gp ?(.*)', fromMe: false, dontAddCommandList: true},
 
     var webimage = await axios.get(`https://api.zeks.xyz/api/gplaybutton?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${match[1]}`, { responseType: 'arraybuffer' })
 
-  await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*😈𝕄𝕒𝕕𝕖 𝕓𝕪𝕊ℍ𝔸ℤℤ😈*'  })
+  await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*😈𝑀𝐴𝐷𝐸 𝐵𝑌 𝐴𝑅𝐽𝑈𝑁𝑆𝐸𝑅😈*'  })
 
 }));
     
