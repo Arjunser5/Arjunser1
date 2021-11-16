@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="Arjunser.png" width="200" height="200"/>
+  <img border-radius: 15px src="wpmobile.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Arjunser1" src="https://img.shields.io/badge/Arjunser1-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
