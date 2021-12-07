@@ -12,7 +12,7 @@ const lol = "need some word\n🗡enthelum ezhuthu nenba"
 
     if (Config.WORKTYPE == 'private') {
 
-    Asena.addCommand({ pattern: 'Deadpool ?(.*)', fromMe: true,dontAddCommandList: true}, (async (message, match) => {
+    Asena.addCommand({ pattern: 'ARJUNSER ?(.*)', fromMe: true,dontAddCommandList: true}, (async (message, match) => {
 
         if (match[1] === '') return await message.sendMessage(lol);
 
@@ -25,7 +25,7 @@ const lol = "need some word\n🗡enthelum ezhuthu nenba"
 
 else if (Config.WORKTYPE == 'public') {
 
-    Asena.addCommand({ pattern: 'Deadpool ?(.*)', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
+    Asena.addCommand({ pattern: 'ARJUNSER ?(.*)', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
 
         if (match[1] === '') return await message.sendMessage(lol);
 
